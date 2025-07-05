@@ -29,6 +29,8 @@ To run the app locally:
    ```bash
    git clone https://github.com/Kanakreshi/mini-project.git
 
+2. Site link to try our the tool : https://kanakreshi.github.io/mini-project/
+
 👤 Author
 
 Developed by Kanak Reshi
